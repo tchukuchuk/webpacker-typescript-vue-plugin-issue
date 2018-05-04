@@ -25,7 +25,7 @@ export default class Sample extends Vue {
   $mq: string
 
   mounted() {
-    // this.$mq must be diffent than undefined
+    // this.$mq must be different than undefined
     console.log("this.$mq=", this.$mq)
   }
 }
