@@ -1,0 +1,21 @@
+{
+  "name": "webpacker-typescript-vue-plugin-issue",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "@types/node": "^10.0.3",
+    "ts-loader": "3.5.0",
+    "tslint": "^5.10.0",
+    "tslint-loader": "^3.6.0",
+    "typescript": "^2.8.3",
+    "vue": "^2.5.16",
+    "vue-class-component": "^6.2.0",
+    "vue-loader": "14.2.2",
+    "vue-mq": "^0.2.1",
+    "vue-property-decorator": "^6.0.0",
+    "vue-template-compiler": "^2.5.16"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}
